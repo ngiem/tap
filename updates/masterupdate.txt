@@ -1,0 +1,3 @@
+<Version: 1.01>
+/js/plugins/tappingGame.js https://raw.githubusercontent.com/ngiem/tap/master/js/plugins/tappingGame.js
+<End of Version>

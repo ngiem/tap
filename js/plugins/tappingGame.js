@@ -797,262 +797,262 @@ var setup_Tapping_Game = function(taps, mode, inputMode, endAfterTapGoal, tapGoa
     
          switch(rndNum) {
          case 1:
-             tapItems.push(new Tap_Item("cute_monster_a(1)", "bubble001_146x146", "cute_monster_a(1)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(1)", "bubble001_114x196", "cute_monster_a(1)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 2:
-             tapItems.push(new Tap_Item("cute_monster_a(2)", "bubble001_146x146", "cute_monster_a(2)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(2)", "bubble001_146x146", "cute_monster_a(2)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 3:
-             tapItems.push(new Tap_Item("cute_monster_a(3)", "bubble001_146x146", "cute_monster_a(3)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(3)", "bubble001_178x178", "cute_monster_a(3)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 4:
-             tapItems.push(new Tap_Item("cute_monster_a(4)", "bubble001_146x146", "cute_monster_a(4)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(4)", "bubble001_114x196", "cute_monster_a(4)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 5:
-             tapItems.push(new Tap_Item("cute_monster_a(5)", "bubble001_146x146", "cute_monster_a(5)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(5)", "bubble001_178x178", "cute_monster_a(5)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 6:
-             tapItems.push(new Tap_Item("cute_monster_a(6)", "bubble001_146x146", "cute_monster_a(6)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(6)", "bubble001_132x196", "cute_monster_a(6)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 7:
-             tapItems.push(new Tap_Item("cute_monster_a(7)", "bubble001_146x146", "cute_monster_a(7)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(7)", "bubble001_178x178", "cute_monster_a(7)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 8:
-             tapItems.push(new Tap_Item("cute_monster_a(8)", "bubble001_146x146", "cute_monster_a(8)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(8)", "bubble001_142x172", "cute_monster_a(8)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 9:
-             tapItems.push(new Tap_Item("cute_monster_a(9)", "bubble001_146x146", "cute_monster_a(9)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(9)", "bubble001_178x178", "cute_monster_a(9)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 10:
-             tapItems.push(new Tap_Item("cute_monster_a(10)", "bubble001_146x146", "cute_monster_a(10)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(10)", "bubble001_146x146", "cute_monster_a(10)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 11:
-             tapItems.push(new Tap_Item("cute_monster_a(11)", "bubble001_146x146", "cute_monster_a(11)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(11)", "bubble001_114x196", "cute_monster_a(11)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 12:
-             tapItems.push(new Tap_Item("cute_monster_a(12)", "bubble001_146x146", "cute_monster_a(12)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(12)", "bubble001_166x166", "cute_monster_a(12)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 13:
-             tapItems.push(new Tap_Item("cute_monster_a(13)", "bubble001_146x146", "cute_monster_a(13)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(13)", "bubble001_178x178", "cute_monster_a(13)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 14:
-             tapItems.push(new Tap_Item("cute_monster_a(14)", "bubble001_146x146", "cute_monster_a(14)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(14)", "bubble001_178x178", "cute_monster_a(14)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 15:
-             tapItems.push(new Tap_Item("cute_monster_a(15)", "bubble001_146x146", "cute_monster_a(15)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(15)", "bubble001_166x166", "cute_monster_a(15)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 16:
-             tapItems.push(new Tap_Item("cute_monster_a(16)", "bubble001_146x146", "cute_monster_a(16)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(16)", "bubble001_178x178", "cute_monster_a(16)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 17:
-             tapItems.push(new Tap_Item("cute_monster_a(17)", "bubble001_146x146", "cute_monster_a(17)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(17)", "bubble001_114x196", "cute_monster_a(17)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 18:
-             tapItems.push(new Tap_Item("cute_monster_a(18)", "bubble001_146x146", "cute_monster_a(18)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(18)", "bubble001_178x178", "cute_monster_a(18)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 19:
-             tapItems.push(new Tap_Item("cute_monster_a(19)", "bubble001_146x146", "cute_monster_a(19)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(19)", "bubble001_178x178", "cute_monster_a(19)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 20:
-             tapItems.push(new Tap_Item("cute_monster_a(20)", "bubble001_146x146", "cute_monster_a(20)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(20)", "bubble001_166x166", "cute_monster_a(20)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 21:
-             tapItems.push(new Tap_Item("cute_monster_a(21)", "bubble001_146x146", "cute_monster_a(21)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(21)", "bubble001_114x196", "cute_monster_a(21)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 22:
-             tapItems.push(new Tap_Item("cute_monster_a(22)", "bubble001_146x146", "cute_monster_a(22)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(22)", "bubble001_166x166", "cute_monster_a(22)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 23:
-             tapItems.push(new Tap_Item("cute_monster_a(23)", "bubble001_146x146", "cute_monster_a(23)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(23)", "bubble001_178x178", "cute_monster_a(23)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 24:
-             tapItems.push(new Tap_Item("cute_monster_a(24)", "bubble001_146x146", "cute_monster_a(24)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(24)", "bubble001_166x166", "cute_monster_a(24)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 25:
-             tapItems.push(new Tap_Item("cute_monster_a(25)", "bubble001_146x146", "cute_monster_a(25)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(25)", "bubble001_178x178", "cute_monster_a(25)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 26:
-             tapItems.push(new Tap_Item("cute_monster_a(26)", "bubble001_146x146", "cute_monster_a(26)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(26)", "bubble001_166x166", "cute_monster_a(26)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 27:
-             tapItems.push(new Tap_Item("cute_monster_a(27)", "bubble001_146x146", "cute_monster_a(27)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(27)", "bubble001_114x196", "cute_monster_a(27)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 28:
-             tapItems.push(new Tap_Item("cute_monster_a(28)", "bubble001_146x146", "cute_monster_a(28)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(28)", "bubble001_166x166", "cute_monster_a(28)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 29:
-             tapItems.push(new Tap_Item("cute_monster_a(29)", "bubble001_146x146", "cute_monster_a(29)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(29)", "bubble001_146x146", "cute_monster_a(29)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 30:
-             tapItems.push(new Tap_Item("cute_monster_a(30)", "bubble001_146x146", "cute_monster_a(30)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(30)", "bubble001_166x166", "cute_monster_a(30)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 31:
-             tapItems.push(new Tap_Item("cute_monster_a(31)", "bubble001_146x146", "cute_monster_a(31)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(31)", "bubble001_178x178", "cute_monster_a(31)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 32:
-             tapItems.push(new Tap_Item("cute_monster_a(32)", "bubble001_146x146", "cute_monster_a(32)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(32)", "bubble001_178x178", "cute_monster_a(32)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 33:
-             tapItems.push(new Tap_Item("cute_monster_a(33)", "bubble001_146x146", "cute_monster_a(33)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(33)", "bubble001_178x178", "cute_monster_a(33)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 34:
-             tapItems.push(new Tap_Item("cute_monster_a(34)", "bubble001_146x146", "cute_monster_a(34)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(34)", "bubble001_166x166", "cute_monster_a(34)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 35:
-             tapItems.push(new Tap_Item("cute_monster_a(35)", "bubble001_146x146", "cute_monster_a(35)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(35)", "bubble001_166x166", "cute_monster_a(35)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 36:
-             tapItems.push(new Tap_Item("cute_monster_a(36)", "bubble001_146x146", "cute_monster_a(36)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(36)", "bubble001_178x178", "cute_monster_a(36)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 37:
-             tapItems.push(new Tap_Item("cute_monster_a(37)", "bubble001_146x146", "cute_monster_a(37)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(37)", "bubble001_178x178", "cute_monster_a(37)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 38:
-             tapItems.push(new Tap_Item("cute_monster_a(38)", "bubble001_146x146", "cute_monster_a(38)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(38)", "bubble001_178x178", "cute_monster_a(38)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 39:
-             tapItems.push(new Tap_Item("cute_monster_a(39)", "bubble001_146x146", "cute_monster_a(39)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(39)", "bubble001_178x178", "cute_monster_a(39)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 40:
-             tapItems.push(new Tap_Item("cute_monster_a(40)", "bubble001_146x146", "cute_monster_a(40)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(40)", "bubble001_178x178", "cute_monster_a(40)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 41:
-             tapItems.push(new Tap_Item("cute_monster_a(41)", "bubble001_146x146", "cute_monster_a(41)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(41)", "bubble001_178x178", "cute_monster_a(41)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 42:
-             tapItems.push(new Tap_Item("cute_monster_a(42)", "bubble001_146x146", "cute_monster_a(42)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(42)", "bubble001_178x178", "cute_monster_a(42)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 43:
-             tapItems.push(new Tap_Item("cute_monster_a(43)", "bubble001_146x146", "cute_monster_a(43)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(43)", "bubble001_166x166", "cute_monster_a(43)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 44:
-             tapItems.push(new Tap_Item("cute_monster_a(44)", "bubble001_146x146", "cute_monster_a(44)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(44)", "bubble001_178x178", "cute_monster_a(44)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 45:
-             tapItems.push(new Tap_Item("cute_monster_a(45)", "bubble001_146x146", "cute_monster_a(45)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(45)", "bubble001_166x166", "cute_monster_a(45)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 46:
-             tapItems.push(new Tap_Item("cute_monster_a(46)", "bubble001_146x146", "cute_monster_a(46)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(46)", "bubble001_166x166", "cute_monster_a(46)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 47:
-             tapItems.push(new Tap_Item("cute_monster_a(47)", "bubble001_146x146", "cute_monster_a(47)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(47)", "bubble001_189x189", "cute_monster_a(47)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 48:
-             tapItems.push(new Tap_Item("cute_monster_a(48)", "bubble001_146x146", "cute_monster_a(48)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(48)", "bubble001_166x166", "cute_monster_a(48)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 49:
-             tapItems.push(new Tap_Item("cute_monster_a(49)", "bubble001_146x146", "cute_monster_a(49)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(49)", "bubble001_178x178", "cute_monster_a(49)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 50:
-             tapItems.push(new Tap_Item("cute_monster_a(50)", "bubble001_146x146", "cute_monster_a(50)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(50)", "bubble001_178x178", "cute_monster_a(50)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 51:
-             tapItems.push(new Tap_Item("cute_monster_a(51)", "bubble001_146x146", "cute_monster_a(51)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(51)", "bubble001_178x178", "cute_monster_a(51)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 52:
-             tapItems.push(new Tap_Item("cute_monster_a(52)", "bubble001_146x146", "cute_monster_a(52)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(52)", "bubble001_178x178", "cute_monster_a(52)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 53:
-             tapItems.push(new Tap_Item("cute_monster_a(53)", "bubble001_146x146", "cute_monster_a(53)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(53)", "bubble001_178x178", "cute_monster_a(53)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 54:
-             tapItems.push(new Tap_Item("cute_monster_a(54)", "bubble001_146x146", "cute_monster_a(54)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(54)", "bubble001_178x178", "cute_monster_a(54)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 55:
-             tapItems.push(new Tap_Item("cute_monster_a(55)", "bubble001_146x146", "cute_monster_a(55)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(55)", "bubble001_189x189", "cute_monster_a(55)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 56:
-             tapItems.push(new Tap_Item("cute_monster_a(56)", "bubble001_146x146", "cute_monster_a(56)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(56)", "bubble001_146x146", "cute_monster_a(56)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 57:
-             tapItems.push(new Tap_Item("cute_monster_a(57)", "bubble001_146x146", "cute_monster_a(57)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(57)", "bubble001_166x166", "cute_monster_a(57)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 58:
-             tapItems.push(new Tap_Item("cute_monster_a(58)", "bubble001_146x146", "cute_monster_a(58)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(58)", "bubble001_178x178", "cute_monster_a(58)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 59:
-             tapItems.push(new Tap_Item("cute_monster_a(59)", "bubble001_146x146", "cute_monster_a(59)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(59)", "bubble001_189x189", "cute_monster_a(59)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 60:
-             tapItems.push(new Tap_Item("cute_monster_a(60)", "bubble001_146x146", "cute_monster_a(60)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(60)", "bubble001_178x178", "cute_monster_a(60)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 61:
-             tapItems.push(new Tap_Item("cute_monster_a(61)", "bubble001_146x146", "cute_monster_a(61)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(61)", "bubble001_178x178", "cute_monster_a(61)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 62:
-             tapItems.push(new Tap_Item("cute_monster_a(62)", "bubble001_146x146", "cute_monster_a(62)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(62)", "bubble001_178x178", "cute_monster_a(62)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 63:
-             tapItems.push(new Tap_Item("cute_monster_a(63)", "bubble001_146x146", "cute_monster_a(63)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(63)", "bubble001_178x178", "cute_monster_a(63)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 64:
-             tapItems.push(new Tap_Item("cute_monster_a(64)", "bubble001_146x146", "cute_monster_a(64)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(64)", "bubble001_189x189", "cute_monster_a(64)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 65:
-             tapItems.push(new Tap_Item("cute_monster_a(65)", "bubble001_146x146", "cute_monster_a(65)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(65)", "bubble001_146x146", "cute_monster_a(65)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 66:
-             tapItems.push(new Tap_Item("cute_monster_a(66)", "bubble001_146x146", "cute_monster_a(66)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(66)", "bubble001_146x146", "cute_monster_a(66)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 67:
-             tapItems.push(new Tap_Item("cute_monster_a(67)", "bubble001_146x146", "cute_monster_a(67)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(67)", "bubble001_166x166", "cute_monster_a(67)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 68:
-             tapItems.push(new Tap_Item("cute_monster_a(68)", "bubble001_146x146", "cute_monster_a(68)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(68)", "bubble001_166x166", "cute_monster_a(68)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 69:
-             tapItems.push(new Tap_Item("cute_monster_a(69)", "bubble001_146x146", "cute_monster_a(69)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(69)", "bubble001_166x166", "cute_monster_a(69)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 70:
-             tapItems.push(new Tap_Item("cute_monster_a(70)", "bubble001_146x146", "cute_monster_a(70)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(70)", "bubble001_178x178", "cute_monster_a(70)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 71:
-             tapItems.push(new Tap_Item("cute_monster_a(71)", "bubble001_146x146", "cute_monster_a(71)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(71)", "bubble001_178x178", "cute_monster_a(71)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 72:
-             tapItems.push(new Tap_Item("cute_monster_a(72)", "bubble001_146x146", "cute_monster_a(72)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(72)", "bubble001_114x196", "cute_monster_a(72)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 73:
-             tapItems.push(new Tap_Item("cute_monster_a(73)", "bubble001_146x146", "cute_monster_a(73)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(73)", "bubble001_114x196", "cute_monster_a(73)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 74:
-             tapItems.push(new Tap_Item("cute_monster_a(74)", "bubble001_146x146", "cute_monster_a(74)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(74)", "bubble001_166x166", "cute_monster_a(74)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 75:
-             tapItems.push(new Tap_Item("cute_monster_a(75)", "bubble001_146x146", "cute_monster_a(75)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(75)", "bubble001_144x186", "cute_monster_a(75)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 76:
-             tapItems.push(new Tap_Item("cute_monster_a(76)", "bubble001_146x146", "cute_monster_a(76)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(76)", "bubble001_144x186", "cute_monster_a(76)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 77:
-             tapItems.push(new Tap_Item("cute_monster_a(77)", "bubble001_146x146", "cute_monster_a(77)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(77)", "bubble001_146x146", "cute_monster_a(77)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 78:
-             tapItems.push(new Tap_Item("cute_monster_a(78)", "bubble001_146x146", "cute_monster_a(78)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(78)", "bubble001_146x146", "cute_monster_a(78)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 79:
-             tapItems.push(new Tap_Item("cute_monster_a(79)", "bubble001_146x146", "cute_monster_a(79)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(79)", "bubble001_146x146", "cute_monster_a(79)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 80:
-             tapItems.push(new Tap_Item("cute_monster_a(80)", "bubble001_146x146", "cute_monster_a(80)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(80)", "bubble001_166x166", "cute_monster_a(80)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 81:
-             tapItems.push(new Tap_Item("cute_monster_a(81)", "bubble001_146x146", "cute_monster_a(81)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(81)", "bubble001_178x178", "cute_monster_a(81)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 82:
-             tapItems.push(new Tap_Item("cute_monster_a(82)", "bubble001_146x146", "cute_monster_a(82)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(82)", "bubble001_178x178", "cute_monster_a(82)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 83:
-             tapItems.push(new Tap_Item("cute_monster_a(83)", "bubble001_146x146", "cute_monster_a(83)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(83)", "bubble001_166x166", "cute_monster_a(83)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 84:
-             tapItems.push(new Tap_Item("cute_monster_a(84)", "bubble001_146x146", "cute_monster_a(84)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(84)", "bubble001_178x178", "cute_monster_a(84)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 85:
-             tapItems.push(new Tap_Item("cute_monster_a(85)", "bubble001_146x146", "cute_monster_a(85)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(85)", "bubble001_178x178", "cute_monster_a(85)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 86:
-             tapItems.push(new Tap_Item("cute_monster_a(86)", "bubble001_146x146", "cute_monster_a(86)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, 2));
+             tapItems.push(new Tap_Item("cute_monster_a(86)", "bubble001_166x166", "cute_monster_a(86)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
 
          default:

@@ -866,7 +866,7 @@ var setup_Tapping_Game = function(taps, mode, inputMode, endAfterTapGoal, tapGoa
              tapItems.push(new Tap_Item("cute_monster_a(23)", "bubble001_178x178", "cute_monster_a(23)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 24:
-             tapItems.push(new Tap_Item("cute_monster_a(24)", "bubble001_166x166", "cute_monster_a(24)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
+             tapItems.push(new Tap_Item("cute_monster_a(24)", "bubble001_178x178", "cute_monster_a(24)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 25:
              tapItems.push(new Tap_Item("cute_monster_a(25)", "bubble001_178x178", "cute_monster_a(25)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
@@ -878,7 +878,7 @@ var setup_Tapping_Game = function(taps, mode, inputMode, endAfterTapGoal, tapGoa
              tapItems.push(new Tap_Item("cute_monster_a(27)", "bubble001_114x196", "cute_monster_a(27)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 28:
-             tapItems.push(new Tap_Item("cute_monster_a(28)", "bubble001_166x166", "cute_monster_a(28)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
+             tapItems.push(new Tap_Item("cute_monster_a(28)", "bubble001_178x178", "cute_monster_a(28)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 29:
              tapItems.push(new Tap_Item("cute_monster_a(29)", "bubble001_146x146", "cute_monster_a(29)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
@@ -965,7 +965,7 @@ var setup_Tapping_Game = function(taps, mode, inputMode, endAfterTapGoal, tapGoa
              tapItems.push(new Tap_Item("cute_monster_a(56)", "bubble001_146x146", "cute_monster_a(56)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 57:
-             tapItems.push(new Tap_Item("cute_monster_a(57)", "bubble001_166x166", "cute_monster_a(57)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
+             tapItems.push(new Tap_Item("cute_monster_a(57)", "bubble001_178x178", "cute_monster_a(57)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 58:
              tapItems.push(new Tap_Item("cute_monster_a(58)", "bubble001_178x178", "cute_monster_a(58)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
@@ -1013,7 +1013,7 @@ var setup_Tapping_Game = function(taps, mode, inputMode, endAfterTapGoal, tapGoa
              tapItems.push(new Tap_Item("cute_monster_a(72)", "bubble001_114x196", "cute_monster_a(72)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 73:
-             tapItems.push(new Tap_Item("cute_monster_a(73)", "bubble001_114x196", "cute_monster_a(73)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
+             tapItems.push(new Tap_Item("cute_monster_a(73)", "bubble001_132x196", "cute_monster_a(73)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));
              break;
          case 74:
              tapItems.push(new Tap_Item("cute_monster_a(74)", "bubble001_166x166", "cute_monster_a(74)", "blank", i, i+1, "none", 1, 0, 0, 0, 0, null));

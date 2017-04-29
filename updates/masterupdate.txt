@@ -1,3 +1,7 @@
-<Version: 1.01>
+<Score>
+score/score.dat https://raw.githubusercontent.com/ngiem/tap/master/score/score.dat
+<End of Score>
+
+<Version: 0.09>
 /js/plugins/tappingGame.js https://raw.githubusercontent.com/ngiem/tap/master/js/plugins/tappingGame.js
 <End of Version>
